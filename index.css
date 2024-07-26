@@ -114,6 +114,8 @@ span{
         margin-bottom: 35px;
     }
     .hero .images{
+        width: 40%;
+        height: auto;
         margin-bottom: 35px;
     }
 
