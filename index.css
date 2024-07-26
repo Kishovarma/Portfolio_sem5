@@ -95,3 +95,12 @@ span{
 .images:hover .pass{
     left: 45%;
 }
+
+@media screen and (max-width: 1180px){
+    .about{
+        width: 100%;
+        height: auto;
+        padding: 70px 0px;
+    }
+    
+}
