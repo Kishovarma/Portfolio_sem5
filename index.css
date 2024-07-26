@@ -105,6 +105,10 @@ span{
 }
 
 @media screen and (max-width: 650px){
+    .hero{
+        width: 100%;
+        height: auto;
+    }
     .hero nav{
         margin-bottom: 35px;
     }
